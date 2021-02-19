@@ -9,5 +9,6 @@ What I found most interesting about this article is the new python web framework
 
     -Lee Boodoo (LBB346)
 
-## William's Comments
+## William Huang's Comments
 I am curious about FastAPI's implementation of Javascript's event driven architecture and how this affects its compatibility and performance with existing Python libraries who may do or assist with intensive I/O operations.
+*-William Huang (wwh237)*
